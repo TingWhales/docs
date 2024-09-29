@@ -1,34 +1,37 @@
 # Tokenomics
 
-$TWHALES is used to incentivize the growth of Ting Whales transparently and fairly. There will be no presale for $TWHALES as the initial liquidity is bootstrapped by the LootBot Treasury.
+$TWE is used to incentivize the growth of Ting Whales transparently and fairly. There will be no presale for $TWE as the initial liquidity is bootstrapped by the LootBot Treasury.
 
-
+TOTAL SUPPLY: 1,000,000,000 $TWE
 
 \
 🔹 **Airdrop (including the share to $LOOT stakers and $xLOOT holders)**
 
-5% - 5,000,000 - 50% TGE, linear vesting for 6 months
+5% - 50,000,000 - 100% TGE, cliff for 12 months
 
-🔹 **Incentives**
+🔹 **Seed**
 
-65% - 65,000,000 - Linear emissions for 4 years
+10% - 100,000,000 - 5% TGE, linear vesting for 19 months
+
+🔹 **Private**
+
+10% - 100,000,000 - linear vesting for 19 months
+
+🔹 **IDO**
+
+1% - 10,000,000 - 5% TGE, linear vesting for 19 months
 
 🔹 **Team**
 
-9.5% - 9,500,000 - locked for 9 months & linear vesting for 36 months
+20% - 200,000,000 - 5% TGE, linear vesting for 19 months, cliff for 12 months
 
-🔹 **Liquidity**
+🔹 **Advisor**
 
-7.5% - 7,500,000 - 100% TGE, liquidity locked/burned
+5% - 50,000,000 - 5% TGE, linear vesting for 19 months, cliff for 12 months
 
 🔹 **Marketing**
 
-5% - 5,000,000 - 25% TGE, linear vesting for 24 months
+9% - 90,000,000 - 100% TGE
+🔹 **Reward**
 
-🔹 **Private Sale**
-
-7% - 7,000,000 - 50% TGE, linear vesting for 2 months
-
-🔹 **Security**
-
-1% - 1,000,000 - 100% TGE
+40% - 400,000,000 - 100% TGE
