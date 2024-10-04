@@ -1,37 +1,23 @@
 # Tokenomics
 
-$TWE is used to incentivize the growth of Ting Whales transparently and fairly. There will be no presale for $TWE as the initial liquidity is bootstrapped by the LootBot Treasury.
+_**\*Basic Information**_
 
-TOTAL SUPPLY: 1,000,000,000 $TWE
+* **Token Name: TingWhales**
+* **Total Supply: 1.000.000.000**
+* **Token Ticker: TWE**
+* **Chain: TBA**
+* **Decimal: TBA**
+* **Contract address: TBA**
 
-\
-🔹 **Airdrop (including the share to $LOOT stakers and $xLOOT holders)**
+_**\*Allocation**_
 
-5% - 50,000,000 - 100% TGE, cliff for 12 months
-
-🔹 **Seed**
-
-10% - 100,000,000 - 5% TGE, linear vesting for 19 months
-
-🔹 **Private**
-
-10% - 100,000,000 - linear vesting for 19 months
-
-🔹 **IDO**
-
-1% - 10,000,000 - 5% TGE, linear vesting for 19 months
-
-🔹 **Team**
-
-20% - 200,000,000 - 5% TGE, linear vesting for 19 months, cliff for 12 months
-
-🔹 **Advisor**
-
-5% - 50,000,000 - 5% TGE, linear vesting for 19 months, cliff for 12 months
-
-🔹 **Marketing**
-
-9% - 90,000,000 - 100% TGE
-🔹 **Reward**
-
-40% - 400,000,000 - 100% TGE
+| **Distribution** | **Percentage** | **Allocation** |
+| ---------------- | -------------- | -------------- |
+| Airdrop          | 5%             | 50.000.000     |
+| Seed             | 10%            | 100.000.000    |
+| Private          | 10%            | 100.000.000    |
+| IDO              | 1%             | 10.000.000     |
+| Team             | 20%            | 200.000.000    |
+| Advisor          | 5%             | 50.000.000     |
+| Marketing        | 9%             | 90.000.000     |
+| Reward           | 40%            | 400.000.000    |
