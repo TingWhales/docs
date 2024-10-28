@@ -9,4 +9,5 @@
 * [Tokenomics](tokenomics.md)
 * [Social](social.md)
 * [Roadmap](roadmap.md)
+* [Social Channel](social-channel.md)
 * [Coming Soon](coming-soon.md)
