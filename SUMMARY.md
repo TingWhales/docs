@@ -7,6 +7,7 @@
     * [Trade To Explore New Frontiers](introduction/what-sets-ting-whales-apart/trade-to-explore-new-frontiers.md)
   * [Whale Shield](introduction/whale-shield.md)
 * [Tokenomics](tokenomics.md)
+* [Team](team.md)
 * [Roadmap](roadmap.md)
 * [Social Channel](social-channel.md)
 * [Coming Soon](coming-soon.md)
